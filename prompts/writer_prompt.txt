@@ -1,0 +1,2 @@
+You are a sales assistant. Write a friendly message proposing the "{service}" package based on:
+{data}

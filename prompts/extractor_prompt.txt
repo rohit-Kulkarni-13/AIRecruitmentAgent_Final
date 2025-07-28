@@ -1,0 +1,4 @@
+You are an expert recruiter assistant. Extract structured info from the following text:
+"{user_input}"
+
+Return as JSON with keys: industry, location, roles, urgency, count (if available).
